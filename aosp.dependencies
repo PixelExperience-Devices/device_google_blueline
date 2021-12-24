@@ -1,0 +1,13 @@
+[
+   {
+      "repository":"device_google_crosshatch",
+      "target_path":"device/google/crosshatch",
+      "branch":"twelve"
+   },
+   {
+      "repository":"vendor_google_blueline",
+      "target_path":"vendor/google/blueline",
+      "branch":"twelve",
+      "remote":"pixel-devices-blobs"
+   }
+]
