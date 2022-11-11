@@ -1,11 +1,17 @@
 [
    {
-      "repository":"device_google_crosshatch",
-      "target_path":"device/google/crosshatch",
+      "repository":"kernel_google_bluecross",
+      "target_path":"kernel/google/bluecross",
       "branch":"thirteen"
    },
    {
-      "repository":"vendor_google_blueline",
+     "repository"  : "ReallySnow/packages_apps_GoogleCamera",
+     "target_path" : "packages/apps/GoogleCamera",
+     "remote"      : "gitlab",
+     "branch"      : "thirteen"
+   },
+   {
+      "repository":"vendor/google/blueline",
       "target_path":"vendor/google/blueline",
       "branch":"thirteen",
       "remote":"pixel-devices-blobs"
